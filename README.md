@@ -156,6 +156,4 @@ Este projeto está disponível para uso e personalização conforme a necessidad
 ## 👨‍💻 Autor
 Wellerson Vinicius Ferraz
 
-Desenvolvido por **Canal FuteLoucos**.
-
 Se este projeto foi útil para você, considere deixar uma ⭐ no repositório.
